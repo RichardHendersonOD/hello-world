@@ -1,3 +1,3 @@
 # hello-world
-practice repository
+practice repository \n
 Hello, my name is Richard.
